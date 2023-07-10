@@ -1,0 +1,28 @@
+3. Write a short note on tags, elements, and attributes along with relevant examples ?
+
+Ans: In HTML, tags, elements, and attributes are very helpful to define the structure and the content of a web page.
+
+Tags:
+
+
+In HTML, tags are used to mark up and define the content of a web page. They are enclosed in angle brackets, and usually come in pairs, with an opening tag and a closing tag. There are many different types of HTML tags available, each with its own specific purpose. 
+
+Example: <p>I am happy to learn Web Development.</p>. In this example, the opening tag is <p> and the closing tag is </p>. 
+
+Elements:
+
+HTML elements are the building blocks of web pages. An HTML element is made up of a start tag, content, and an end tag (in most cases).
+
+Example: <p>I am happy to learn Web Development.</p>. In this example, the opening tag is <p> and the closing tag is </p>. The content along with the tags is the paragraph element.
+
+Attributes:
+
+In HTML, attributes provide additional information about an element. They are usually included in the opening tag of the element.
+
+Example: <a href="https://google.com" >Go To Google</a>. In this example, the a element is used to create a hyperlink. The href attribute specifies the URL that the hyperlink points to. The attribute values are enclosed in quotes.
+
+
+
+
+
+

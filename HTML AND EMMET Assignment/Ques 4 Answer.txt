@@ -1,0 +1,9 @@
+4. List out any 3 tags we learned in this module and give a brief explanation about the tags.
+
+Ans: The 3 tags which we have learnt in this module are:
+
+1. <p></p> : The tag is used to represent a piece of text that forms a distinct block of content.
+
+2. <h1></h1> : Headings are used to define the titles or subtitles of a web page or a section of content. H1 represents the highest level of the Headings.
+
+3. <div></div> : Div creates a container or a division within a web page that can be used to group other HTML elements, such as text, images, forms, and other HTML tags, into a logical section or a block. 
