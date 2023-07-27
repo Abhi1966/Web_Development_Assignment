@@ -1,0 +1,17 @@
+1. List out the features of HTML5.
+
+Ans: Some of the main features of HTML5 are as follows -
+    - Improved Multimedia support - HTML5 allows for the integration of multimedia elements such as audio and
+    video directly into web pages without the need for plugins like Flash.
+    - Canvas element - HTML5 introduced the <canvas> element, which allows for dynamic, interactive graphics to
+    be created and manipulated within a web page.
+    - Geolocation API - HTML5 provides an API for obtaining the user's location, enabling web applications to
+    offer location-based services.
+    - Local Storage - HTML5 introduced the localStorage API, which allows for the storage of data on the user's
+    device, improving performance and reducing the need for round-trips to the server.
+    - New Structural Elements -  HTML5 introduced new semantic elements such as <header>, <footer>, <nav>, and
+    <article> that make it easier to structure and organise content on a web page.
+    - Form Improvements - HTML5 introduced several improvements to forms, including new input types like date,
+    time, and colour, as well as new attributes such as required and autofocus.
+    - Accessibility improvements - HTML5 provides better support for accessibility, including the ability to
+    provide alternative text for images and improved support for screen readers.
