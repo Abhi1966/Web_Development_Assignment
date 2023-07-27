@@ -1,0 +1,9 @@
+7. What are the benefits of using semantic tags in our webpage.
+
+Ans: The benefits of using semantic tags in our webpage. are:
+
+1. By using Semantic tags in our code, we can provide additional information about that document by defining the layout and sections of the webpage.
+
+2. Semantic elements are of great help to people using screen readers. The additional information provided by semantic tags helps screen readers understand the content better and help them to determine the different sections within a page more efficiently.
+
+3. HTML Semantic tags help the browser determine the purpose of the page and its content. Semantic tags also help in Search Engine Optimization as they help browsers interpret the content more easily by making content more adaptive.

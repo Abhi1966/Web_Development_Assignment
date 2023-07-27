@@ -1,0 +1,9 @@
+5. Write a short note on tab index.
+
+Ans: Basically, the tabindex attribute is primarily intended to allow tabbable elements to have a custom tab order (specified in positive numerical order), instead of just being tabbed through in their default source order. 
+
+There are two additional options available for tabindex:
+
+1. tabindex="0" -  this option allows elements that are not usually able to be focused via the keyboard to become focusable. This value of tabindex is particularly beneficial.
+
+2. tabindex="-1" - this option enables elements that are not typically focusable to receive focus programmatically, such as through JavaScript, or as the target of links.
