@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register</title>
+
+    <style>
+      input[name="user-name"] {
+        color: blue;
+      }
+
+      input[name="user-email"] {
+        color: green;
+      }
+
+      input[name="user-password"] {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <form action="#">
+      <div>
+        <label for="user-name">Name: </label>
+        <input type="text" name="user-name" id="user-name" required />
+      </div>
+      <br />
+      <div>
+        <label for="user-email">Email: </label>
+        <input type="email" name="user-email" id="user-email" required />
+      </div>
+      <br />
+      <div>
+        <label for="user-password">Password: </label>
+        <input
+          type="password"
+          name="user-password"
+          id="user-password"
+          required
+        />
+      </div>
+      <br />
+      <div>
+        <input type="submit" value="Register Account" />
+      </div>
+    </form>
+  </body>
+</html>
