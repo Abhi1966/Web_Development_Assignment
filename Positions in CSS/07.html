@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pokemon game</title>
+    <style>
+      body {
+        position: relative;
+        text-align: center;
+      }
+      .card {
+        position: absolute;
+        width: 200px;
+        height: 300px;
+        background-color: #f1f1f1;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin: 10px;
+        padding: 10px;
+        border: 2px solid black;
+        text-align: center;
+      }
+
+      .card:hover {
+        z-index: 2;
+      }
+
+      .card-1 {
+        background-color: #1b98f5;
+      }
+
+      .card-2 {
+        margin-top: 80px;
+        background-color: #1faa59;
+        margin-left: 40px;
+      }
+
+      .card-3 {
+        position: absolute;
+        margin-top: 150px;
+        background-color: #f7cd2e;
+        margin-left: 70px;
+      }
+
+      img {
+        width: 150px;
+        height: 200px;
+        background-color: #1f1f1f;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hover To Unveil The Pokemon</h1>
+    <div class="card card-1">
+      <h3>Card 1</h3>
+      <img
+        src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c325.png"
+        alt="Pokemon 01"
+      />
+    </div>
+    <div class="card card-2">
+      <h3>Card 2</h3>
+      <img
+        src="https://freepngimg.com/save/20252-pokemon-transparent-background/908x1183"
+        alt="Pokemon 02"
+      />
+    </div>
+
+    <div class="card card-3">
+      <h3>Card 2</h3>
+      <img
+        src="https://www.freeiconspng.com/thumbs/pokemon-png/totodile-pokemon-png-5.png"
+        alt="Pokemon 02"
+      />
+    </div>
+  </body>
+</html>
